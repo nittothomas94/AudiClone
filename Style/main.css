@@ -1,0 +1,373 @@
+.main{
+    background-color: white;
+    position: absolute;
+}
+
+h1,h2,h3,h4,p{
+    font-family: sans-serif;
+}
+
+.life{
+    background-image: url("Images/2_cars.jpg");
+    position: relative ;
+    float: left;
+    height: auto;
+}
+    
+
+#bg-img{
+    display: flex;
+    width: 100%;
+    height: 1168px;
+    scroll-behavior: smooth;
+    float: left;
+}
+
+.qutation{
+  position: absolute;
+  top: 100px;
+  left: 20px;
+  background-color: none;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+ 
+}
+
+#first-text{
+    font-size: 51px;
+    color: white;
+    margin-top: 0px;
+    margin-left: 207px;
+  }
+
+#second-text{
+    position: absolute;
+    font-size: 28px;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: -52px;
+    margin-left: 199px;
+}
+
+#third-text{
+    font-size: 25px;
+    color: white;
+    margin-top: -40px;
+    margin-left: 199px;
+
+}
+#box-1{
+    width: 206px;
+    height: 21px;
+    margin: 4px;
+    margin-top: 18px;
+    background-color: white;
+    color: black;
+    padding: 12px;
+    text-align: center;
+    border: solid;
+    border-color: white;
+    float: left;
+    margin-left: 206px;
+    padding-bottom: 16px;
+    padding-top: 11px;
+}
+
+#box-2{
+    width: 250px;
+    height: 21px;
+    margin: 4px;
+    margin-top: 18px;
+    color: black;
+    padding: 12px;
+    text-align: center;
+    border: solid;
+    border-color: white;
+    float: left;
+    margin-left: 10px;
+    padding-bottom: 16px;
+    padding-top: 11px;
+    border-width: thin;
+    
+}
+.section-2{
+    background-color: white;
+}
+
+#models{
+    margin-left: 81px;
+    font-size: 21px;
+    margin-top: 1050px;
+}
+
+.cars{
+    
+    grid-template-columns: 20%;
+    float: left;;
+}
+
+
+.cars-gallery {
+    display: flex;
+    overflow-x: auto;
+    white-space: nowrap;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    scrollbar-width: none; 
+    -ms-overflow-style: none;  
+}
+
+.cars-gallery::-webkit-scrollbar {
+    display: none; 
+}
+
+.cars {
+    flex: 0 0 auto;
+    width: 150px;
+    margin-right: 10px;
+    text-align: center;
+}
+.cars-2 {
+    flex: 0 0 auto;
+    width: 122px;
+    margin-right: -32px;
+    text-align: center;
+    margin-top: -39px;
+}
+.cars img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.cars p {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #333;
+}
+
+#assist-img{
+    margin-left: 101px;
+    margin-top: 125px;
+    height: 733px;
+    float: left;
+}
+.audi-assist-img{
+    margin-left: -995px;
+    margin-top: 479px;
+}
+
+.audi-assist{
+    margin-left: 1031px;
+    margin-top: -514px;
+    float: left;
+}
+
+#assist-text{
+    margin-top: 883px; 
+    font-family: sans-serif;
+}
+
+#box-id{
+    width: 117px;
+    height: 35px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 12px;
+    margin-top: 14px;
+    margin-left: 19px;
+}
+
+.section-3-bg-img{
+    margin-top: 100px;
+    width: 100%;    
+}
+
+.inside-box{
+    position: absolute;
+    width: 604px;
+    height: 234px;
+    top: 2262px;
+    left: 10px;
+    background-color: white;
+    padding: 35px;
+    margin-left: 140px;
+    margin-top: 191px;
+    padding-top: 62px;
+    padding-bottom: 38px;
+    padding-left: 86px;
+    padding-right: 44px;
+}
+#text-1{
+    margin-bottom: 32px;
+    margin-top: 15px;
+}
+
+
+#e-trone-hub{
+    color: white;
+    width: 154px;
+    height: 23px;
+    background-color: black;
+    padding-left: 53px;
+    padding-top: 18px;
+    padding-bottom: 9px;
+    margin-top: 19px;
+    float: left;
+    margin-left: 39px;
+}
+
+#attitude{
+    color: black;
+    width: 165px;
+    height: 19px;
+    border: solid;
+    border-color: black;
+    padding-left: 35px;
+    padding-top: 18px;
+    padding-bottom: 9px;
+    margin-top: 19px;
+    margin-left: 55px;
+    float: left;
+}
+
+#black-box{
+    width: 626px;
+    height: 720px;
+    background-color: black;
+    color: white;
+    float: left;
+    margin-top: -5px;
+}
+#locator{
+    width: 567px;
+    height: 101px;
+    color: white;
+    text-align: center;
+    padding-top: 32px;
+    
+    padding-left: -10px;
+    padding-top: 33px;
+    font-size: 41px;
+}
+
+#explore-more{
+    width: 169px;
+    height: 37px;
+    border: solid;
+    padding-left: 52px;
+    padding-top: 18px;
+    margin-left: 159px;
+    margin-top: 486px;
+}
+
+#map-1{
+    margin-top: -4px;
+    width: 1276px;
+    height: 719px
+}
+#black-box-3{
+    width: 1000px;
+    height: 1100px;
+    background-color: black;
+    color: white;
+    margin-top: 114px;
+    float: left;
+}
+
+#text-2{
+    width: 674px;
+    height: 180px;
+    font-size: 35px;
+    color: white;
+    margin-left: 93px;
+    margin-top: 622px;
+    float: left;
+
+}
+
+#text-3{
+    margin-top: 802px;
+    margin-left: 100px;
+}
+
+#box-3{
+    width: 185px;
+    height: 33px;
+    border: solid;
+    border-color: white;
+    padding-left: 29px;
+    padding-top: 13px;
+    margin-left: 97px;
+    margin-top: 39px;
+    float: left;
+}
+#box-4{
+
+    width: 103px;
+    height: 33px;
+    border: solid;
+    border-color: white;
+    padding-left: 36px;
+    padding-top: 13px;
+    margin-left: 41px;
+    margin-top: 39px;
+    float: left;
+
+}
+
+#app-1{
+    width: 901px;
+    float: left;
+    margin-left: 1000px;
+    margin-top: -1100px;
+    height: 1101px;
+    float: left;
+}
+
+#audi-is-wating{
+    margin-top: 1361px;
+    color: black;
+    font-size: 53px;
+    font-style: normal;
+    margin-left: 50px;
+    width: 100%;
+}
+
+.wating{
+    float: left;
+    margin-top: 3px;
+    margin-left: 45px;
+}
+ .wating img{
+   
+    width: 550px;
+    height: 350px;
+    margin-left: 10px;
+ }
+
+ #press-release{
+    float: left;
+    font-size: 44px;
+    margin-top: 61px;
+    margin-left: 44px;
+    width: 100%;
+ }
+
+ 
+.release{
+    float: left;
+    margin-top: 20px;
+    margin-left: 45px;
+}
+ .release img{
+   
+    width: 550px;
+    height: 350px;
+    margin-left: 10px;
+    
+ }
+

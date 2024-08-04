@@ -1,0 +1,164 @@
+.footer{
+    position: absolute;
+    
+    width: 1901px;
+    height: 859px;
+    background-color: black;
+    color: white;
+    margin-top: 6987px;
+}
+
+
+
+/* .heading{
+    font-size: 34px;
+    margin-top: 93px;
+    margin-left: 84px;
+    float: left;
+    width: 139px;
+    height: 49px;
+}
+
+.data{
+    margin-left: 72px;
+    margin-top: 219px;
+    font-size: 11px;
+    width: 160px;
+    height: 196px;
+    padding-left: 1px;
+}
+
+
+.heading-2{
+    font-size: 36px;
+    margin-top: 92px;
+    margin-left: 170px;
+    float: left;
+    width: 139px;
+    height: 49px;
+}
+
+.data-2{
+    margin-left: 161px;
+    margin-top: 219px;
+    font-size: 11px;
+    width: 194px;
+    height: 196px;
+    padding-left: 11px;
+}
+
+*/
+.fotter-box{
+    width: 186px;
+    height: 255px;
+    margin-left: 60px;
+    margin-top: 110px;
+    padding-left: 28px;
+    float: left;
+}
+
+.fotter-box-2{
+    width: 186px;
+    height: 255px;
+    color: white;
+    margin-left: 142px;
+    margin-top: 110px;
+    padding-left: 28px;
+    float: left;
+    font-family: sans-serif;
+    font-size: 11px;
+
+}
+
+#back-to-top{
+    width: 125px;
+    height: 25px;
+    padding-left: 66px;
+    margin-left: 1642px;
+    margin-top: 52px;
+    margin-bottom: -18px;
+}
+
+
+#social-media{
+    width: 90%;
+    height: 41px;
+    margin-top: 409px;
+    border-bottom: solid;
+    border-bottom-color: currentcolor;
+    border-bottom-width: thin;
+    margin-left: 81px;
+}
+
+#fb{
+    width: 19px;
+    height: 19px;
+    background-color: white;
+    margin-left: 1420px;
+    padding: 3px;
+    margin-bottom: -16px;
+
+}
+
+
+#insta{
+    width: 19px;
+    height: 19px;
+    background-color: white;
+    margin-left: 1478px;
+    padding: 3px;
+    margin-bottom: 2px;
+    margin-top: -19px;
+}
+
+
+#youtube{
+    width: 24px;
+    height: 24px;
+    background-color: white;
+    margin-bottom: 20px;
+    margin-top: -32px;
+    margin-left: 1536px;
+}
+
+#x{
+    width: 19px;
+    height: 19px;
+    background-color: white;
+    margin-left: 1592px;
+    padding: 3px;
+    margin-bottom: 38px;
+    margin-top: -53px;
+}
+
+#linkedin{
+    width: 19px;
+    height: 19px;
+    background-color: white;
+    margin-left: 1649px;
+    padding: 3px;
+    margin-bottom: 56px;
+    margin-top: -75px;
+}
+
+.end-text{
+    margin-top: 12px;
+    font-size: 11px;
+    width: 1700px;
+    color: white;
+    margin-left: 83px;
+}
+
+.audi-ag{
+    text-decoration: none;
+    color: white;
+    padding-left: 52px;
+
+}
+.audi-ag-2{
+    text-decoration: none;
+    color: white;
+    padding-left: 21px;
+
+}
+
